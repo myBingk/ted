@@ -1,5 +1,5 @@
 # ted
-分享和记录自己花费一小时以上解决的难题，欢迎大家加入，传递更多心得和经验。
+分享和记录解决的难题，欢迎大家加入，传递更多心得和经验。
 
 ---
 
@@ -187,3 +187,6 @@ ssh-keygen -t rsa -C "邮箱地址"
 ### jenkins报mvn目录不存在，则是未定义maven环境，加上环境变量即可
 
 ---
+
+### activemq下载地址 https://mirrors.tuna.tsinghua.edu.cn/apache//activemq/5.15.10/apache-activemq-5.15.10-bin.tar.gz
+
